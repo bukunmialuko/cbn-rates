@@ -22,4 +22,6 @@ Rates are NGN per one unit of the currency. Codes are ISO 4217.
 
 See [docs](docs/README.md) for sources, update process, and cleaning rules.
 
-Data belongs to the Central Bank of Nigeria.
+## License
+
+Code is MIT. The rate data is published by the Central Bank of Nigeria and remains theirs; this repo reformats it and offers no warranty on accuracy.
