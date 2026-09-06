@@ -10,6 +10,7 @@ Machine-readable history of official CBN exchange rates. Data repo only; the MCP
 - `data/nfem.csv` NFEM daily USD stats
 - `data/latest.json`, `data/meta.json`, `data/anomalies.csv` derived outputs
 - `.github/workflows/update.yml` scheduled fetch + normalize + commit-if-changed
+- `docs/README.md` full explanation; root `README.md` stays short and functional
 
 ## Rules
 
