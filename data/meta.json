@@ -1,0 +1,29 @@
+{
+  "source": "Central Bank of Nigeria",
+  "source_urls": [
+    "https://www.cbn.gov.ng/api/GetAllExchangeRates?format=json",
+    "https://www.cbn.gov.ng/api/GetAllNFEM_Rates"
+  ],
+  "generated_at": "2026-09-06T02:56:42+00:00",
+  "rates_rows": 61905,
+  "nfem_rows": 434,
+  "anomalies": 116,
+  "first_date": "2001-12-10",
+  "last_date": "2026-09-04",
+  "currencies": [
+    "AED",
+    "CHF",
+    "CNY",
+    "DKK",
+    "EUR",
+    "GBP",
+    "JPY",
+    "NGN",
+    "SAR",
+    "USD",
+    "XDR",
+    "XOF",
+    "XUA",
+    "ZAR"
+  ]
+}
