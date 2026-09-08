@@ -4,7 +4,7 @@
     "https://www.cbn.gov.ng/api/GetAllExchangeRates?format=json",
     "https://www.cbn.gov.ng/api/GetAllNFEM_Rates"
   ],
-  "generated_at": "2026-09-07T21:12:33+00:00",
+  "generated_at": "2026-09-08T10:45:35+00:00",
   "rates_rows": 61918,
   "nfem_rows": 435,
   "anomalies": 116,

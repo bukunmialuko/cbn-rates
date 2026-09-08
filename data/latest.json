@@ -108,7 +108,7 @@
     "high": 1322.5,
     "low": 1318.5,
     "close": 1320.0,
-    "deals_interbank": null,
-    "turnover_interbank_usd": 0.0
+    "deals_interbank": 119,
+    "turnover_interbank_usd": 107069464.77
   }
 }
