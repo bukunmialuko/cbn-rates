@@ -4,12 +4,12 @@
     "https://www.cbn.gov.ng/api/GetAllExchangeRates?format=json",
     "https://www.cbn.gov.ng/api/GetAllNFEM_Rates"
   ],
-  "generated_at": "2026-10-13T22:22:15+00:00",
-  "rates_rows": 62242,
-  "nfem_rows": 460,
+  "generated_at": "2026-10-14T21:20:55+00:00",
+  "rates_rows": 62255,
+  "nfem_rows": 461,
   "anomalies": 116,
   "first_date": "2001-12-10",
-  "last_date": "2026-10-13",
+  "last_date": "2026-10-14",
   "currencies": [
     "AED",
     "CHF",
