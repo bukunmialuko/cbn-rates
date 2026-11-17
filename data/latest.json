@@ -102,13 +102,13 @@
     }
   },
   "nfem": {
-    "date": "2026-11-16",
-    "weighted_avg": 1357.192,
-    "simple_avg": 1357.3768,
-    "high": 1360.0,
-    "low": 1353.5,
-    "close": 1360.0,
-    "deals_interbank": 79,
-    "turnover_interbank_usd": 68660156.53
+    "date": "2026-11-17",
+    "weighted_avg": 1355.8036,
+    "simple_avg": 1358.0885,
+    "high": 1364.5,
+    "low": 1354.0,
+    "close": 1363.0,
+    "deals_interbank": 142,
+    "turnover_interbank_usd": 362551139.28
   }
 }
